@@ -5,7 +5,6 @@ title: memento
 #
 author:
   name: by dRichard
-  logo: assets/img/triangle.png
 #   email: your-email@domain.com
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
@@ -15,6 +14,7 @@ author:
 #   in _config.yml. It will appear in your document head meta (for Google search
 #   results) and in your feed.xml site description.
 
+logo: assets/img/triangle.png
 
 # Build settings
 # --------------
