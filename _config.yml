@@ -5,6 +5,7 @@ title: memento
 #
 author:
   name: by dRichard
+  logo: assets/img/triangle.png
 #   email: your-email@domain.com
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
