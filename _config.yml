@@ -62,7 +62,7 @@ minima:
 #     and list the `path` property (as represented via Liquid) of the pages in
 #     the order they should be rendered.
   nav_pages:
-    - about.md
+    - a-propos.md
 #
 #   Set to `true` to show excerpts on the homepage.
 #   show_excerpts: false
@@ -71,7 +71,7 @@ minima:
 #     The default value is "%b %d, %Y" (e.g. Nov 14, 2023).
 #     Refer to https://shopify.github.io/liquid/filters/date/ for valid values
 #   date_format: "%b-%d-%Y"
-  date_format: "%d-%m-%Y"
+  date_format: "%d/%m/%Y"
 #
 #   Social Media Links.
 #     Renders icons via Font Awesome Free webfonts CDN, based on ordered list of
