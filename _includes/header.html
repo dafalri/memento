@@ -4,9 +4,9 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.minima.nav_pages | default: default_paths -%}
     {%- assign page_titles = site.pages | map: 'title' | compact %}
-    <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+    <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>&nbsp;
     {% if site.logo %}
-    &nbsp;<a href="{{ '/' | relative_url }}">
+    <a href="{{ '/' | relative_url }}">
       <img alt="logo img" src="{{ site.logo | relative_url }}" loading="lazy"/>
     </a>
     {% endif %}
