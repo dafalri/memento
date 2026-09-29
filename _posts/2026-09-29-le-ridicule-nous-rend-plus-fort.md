@@ -5,6 +5,7 @@ categories: culture
 ---
 
 Car le ridicule ne tue pas.
+
 Et ce qui ne nous tue pas nous rend plus fort.
 
-Un encouragement.
+C'est encourageant.
